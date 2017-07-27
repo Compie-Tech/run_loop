@@ -30,20 +30,20 @@ function findAlertButtonNames(alert) {
 
 function englishLocalizations() {
   return [
-    ["OK", /Would Like to Use Your Current Location/],
-    ["OK", /Location Accuracy/],
+    ["אפשר", /Would Like to Use Your Current Location/],
+    ["אפשר", /Location Accuracy/],
     ["Allow", /access your location/],
-    ["OK", /Would Like to Access Your Photos/],
-    ["OK", /Would Like to Access Your Contacts/],
-    ["OK", /Access the Microphone/],
-    ["OK", /Would Like to Access Your Calendar/],
-    ["OK", /Would Like to Access Your Reminders/],
-    ["OK", /Would Like to Access Your Motion Activity/],
-    ["OK", /Would Like to Access the Camera/],
-    ["OK", /Would Like to Access Your Motion & Fitness Activity/],
-    ["OK", /Would Like Access to Twitter Accounts/],
-    ["OK", /data available to nearby bluetooth devices/],
-    ["OK", /[Ww]ould [Ll]ike to [Ss]end [Yy]ou( Push)? Notifications/],
+    ["אפשר", /Would Like to Access Your Photos/],
+    ["אפשר", /Would Like to Access Your Contacts/],
+    ["אפשר", /Access the Microphone/],
+    ["אפשר", /Would Like to Access Your Calendar/],
+    ["אפשר", /Would Like to Access Your Reminders/],
+    ["אפשר", /Would Like to Access Your Motion Activity/],
+    ["אפשר", /Would Like to Access the Camera/],
+    ["אפשר", /Would Like to Access Your Motion & Fitness Activity/],
+    ["אפשר", /Would Like Access to Twitter Accounts/],
+    ["אפשר", /data available to nearby bluetooth devices/],
+    ["אפשר", /מעוניין לשלוח לך עדכונים/],
     ["Allow", /Would Like to Add VPN Configurations/]
   ];
 }
@@ -216,6 +216,26 @@ function koreanLocalizations() {
     ["승인", /이(가) 사용자의 동작 및 피트니스 활동에 접근하려고 합니다/],
     ["승인", "이(가) 마이크에 접근하려고 합니다"],
     ["허용", "에서 알림을 보내고자 합니다"]
+  ];
+}
+
+function hebrewLocalizations() {
+  return [
+    ["OK", /Would Like to Use Your Current Location/],
+    ["OK", /Location Accuracy/],
+    ["Allow", /access your location/],
+    ["OK", /Would Like to Access Your Photos/],
+    ["OK", /Would Like to Access Your Contacts/],
+    ["OK", /Access the Microphone/],
+    ["OK", /Would Like to Access Your Calendar/],
+    ["OK", /Would Like to Access Your Reminders/],
+    ["OK", /Would Like to Access Your Motion Activity/],
+    ["OK", /Would Like to Access the Camera/],
+    ["OK", /Would Like to Access Your Motion & Fitness Activity/],
+    ["OK", /Would Like Access to Twitter Accounts/],
+    ["OK", /data available to nearby bluetooth devices/],
+    ["OK", /[Ww]ould [Ll]ike to [Ss]end [Yy]ou( Push)? Notifications/],
+    ["Allow", /Would Like to Add VPN Configurations/]
   ];
 }
 
