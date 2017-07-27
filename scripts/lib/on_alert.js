@@ -221,8 +221,8 @@ function koreanLocalizations() {
 
 function hebrewLocalizations() {
   return [
-    ["רשפא", /םינוכדע ךל חולשל ןיינועמ/],
-    ["אפשר", /מעוניין לשלוח לך עדכונים/]
+    ["רשפא", /םינוכדע/],
+    ["אפשר", /עדכונים/]
   ];
 }
 
