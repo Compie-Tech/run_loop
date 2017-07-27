@@ -221,21 +221,8 @@ function koreanLocalizations() {
 
 function hebrewLocalizations() {
   return [
-    ["אפשר", /Would Like to Use Your Current Location/],
-    ["אפשר", /Location Accuracy/],
-    ["Allow", /access your location/],
-    ["אפשר", /Would Like to Access Your Photos/],
-    ["אפשר", /Would Like to Access Your Contacts/],
-    ["אפשר", /Access the Microphone/],
-    ["אפשר", /Would Like to Access Your Calendar/],
-    ["אפשר", /Would Like to Access Your Reminders/],
-    ["אפשר", /Would Like to Access Your Motion Activity/],
-    ["אפשר", /Would Like to Access the Camera/],
-    ["אפשר", /Would Like to Access Your Motion & Fitness Activity/],
-    ["אפשר", /Would Like Access to Twitter Accounts/],
-    ["אפשר", /data available to nearby bluetooth devices/],
     ["רשפא", /םינוכדע ךל חולשל ןיינועמ/],
-    ["Allow", /Would Like to Add VPN Configurations/]
+    ["אפשר", /מעוניין לשלוח לך עדכונים/]
   ];
 }
 
