@@ -234,7 +234,7 @@ function hebrewLocalizations() {
     ["אפשר", /Would Like to Access Your Motion & Fitness Activity/],
     ["אפשר", /Would Like Access to Twitter Accounts/],
     ["אפשר", /data available to nearby bluetooth devices/],
-    ["אפשר", /מעוניין לשלוח לך עדכונים/],
+    ["רשפא", /םינוכדע ךל חולשל ןיינועמ/],
     ["Allow", /Would Like to Add VPN Configurations/]
   ];
 }
